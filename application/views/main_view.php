@@ -80,8 +80,8 @@ if(!empty( $data['from_date'])){
 <table id="table_data">
 <thead>
   <tr>
-   <th class="usr_data">User Name</th>
    <th class="cnt_data">Country</th>
+	  <th class="usr_data">User Name</th>
     <th class="log_created">Date</th>
     <th class="success">Successfully sent</th> 
     <th class = "fail">Failed</th>
